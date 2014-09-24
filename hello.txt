@@ -1,0 +1,5 @@
+// voici la liste de mes amis
+Jean
+Jacques
+Albert
+Pierre
