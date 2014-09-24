@@ -1,1 +1,2 @@
-alert ("Hello")
+var msg "Hello"
+alert (msg)
